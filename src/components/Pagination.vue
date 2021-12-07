@@ -29,8 +29,8 @@
           class="page-item"
         >
           <a class="page-link"
-           @click="onClick(currentPage + 1)" 
-           style="cursor:pointer">Next</a>
+            @click="onClick(currentPage + 1)" 
+            style="cursor:pointer">Next</a>
         </li>
       
       </ul>

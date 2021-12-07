@@ -26,7 +26,7 @@
             >
                 삭제하기
             </button>
-         
+        
         </template>
     </Modal>
   
